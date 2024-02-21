@@ -13,4 +13,4 @@
         }
     });
 })
-console.write("badolmia742@gmail.com")
+console.write("badolmia742@gmail.com")*/
