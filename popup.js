@@ -12,4 +12,5 @@
             sections[i].style.display = "none";
         }
     });
-});
+});*/
+console.log("HIIIIIIIIIIi")
