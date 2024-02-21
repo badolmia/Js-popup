@@ -1,4 +1,4 @@
-/*document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
     // Replace these tag names with the names of the sections you want to hide
     var sectionTags = ["section", "div", "article", "header", "footer", "form", "button"];
 
@@ -12,5 +12,5 @@
             sections[i].style.display = "none";
         }
     });
-});*/
-console.log("HIIIIIIIIIIi")
+})
+console.write("badolmia742@gmail.com")
